@@ -1,5 +1,8 @@
 # Dark mode guide for Tumblr themes
 This guide is (largely) aimed at theme-makers, because we're going to be using [CSS Variables](https://www.w3schools.com/css/css3_variables.asp) — if your theme does not support these, you will have to do a certain amount of editing - but only once. So fear not, in the end you'll cut considerable time off of creating themes in the future.
+
+A credit + link to my [blog](https://mournstera.tumblr.com/) in your code or credit-page if using this is a must. A reblog of my [post](https://mournstera.tumblr.com/post/724742111455592448/a-dark-mode-guide-with-css-variables-and-js-this) would be hella cool as well. 🧡
+
 > [!NOTE]
 > If you know what you're doing by all means skip ahead and copy-paste. I just want to explain what the different lines of codes.
 
